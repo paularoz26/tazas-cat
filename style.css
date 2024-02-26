@@ -21,8 +21,13 @@
     font-size:18px;
     letter-spacing:3pt;
     padding:15px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
  height:20px;
+ color: rgb(101, 6, 101);
+ text-transform:uppercase;
+ font-weight:800;
+
+
 }
 .cat:hover{
 font-weight:800;
@@ -31,12 +36,6 @@ font-style: italic;
 text-transform:uppercase;
 }
 
-.a .titulo :hover{
-    font-weight:800;
-    color:#000;
-    font-style: italic;
-    text-transform:uppercase;
-    }
 
 header{
     background-image:url(pngtree-macaron-teacup-cat-dessert-cloud-image_16421.jpg);

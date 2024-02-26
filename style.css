@@ -349,4 +349,44 @@ color:#000;
     margin-bottom:0.125rem;
 }
 
+.taza{
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+border-radius:20px;
+border-style:double;
+padding:10px;
+box-shadow: 3px 3px 3px 3px rgb(238, 51, 82);
+margin-bottom:20px;
+margin-top:10px;
+
+}
+.carousel{
+    position: relative;
+}
+
+.carrito-inner{
+position: relative;
+width:100%;
+overflow: hidden;
+}
+
+.carrito-item{
+    position: relative;
+    display: none;
+    float: left;
+    width:100%;
+
+}
+
+.container img{
+    float:left;
+    margin-right:20px;
+    background-color: #fff;
+    overflow: hidden;
+    width:100%;
+    
+}
 

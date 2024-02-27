@@ -183,7 +183,7 @@ header h1{
     top: 15px;
     color: #000;
     font-size: 20px;
-    width: 40px;
+    width:80px;
     height: 40px;
     line-height: 40px;
     text-align: center;
@@ -203,7 +203,6 @@ header h1{
     padding: 30px;
 }
 .carrito-total .fila{
-    display: flex;
     justify-content: space-between;
     align-items: center;
     font-size: 22px;

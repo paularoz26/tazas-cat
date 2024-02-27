@@ -38,6 +38,7 @@ function ready(){
         button.addEventListener('click', agregarAlCarritoClicked);
     }
 
+
     //Agregamos funcionalidad al botón comprar
     document.getElementsByClassName('btn-pagar')[0].addEventListener('click',pagarClicked)
 }

@@ -5,6 +5,34 @@
     font-family: 'Open Sans';
 }
 
+.taza
+  {
+        font-family:"Berkshire Swash",cursive;
+        font-size:4rem;
+        color:rgb(223, 16, 16);
+        text-shadow: 1px 1px 0 rgb(198, 195, 195) ,
+                     1px 2px 0 rgb(198, 195, 195),
+                     1px 3px 0 rgb(198, 195, 195),
+                     1px 4px 0 rgb(198, 195, 195),
+                     1px 5px 0 rgb(198, 195, 195),
+                     1px 6px 0 rgb(198, 195, 195),
+                     1px 7px 0 rgb(198, 195, 195),
+                     1px 8px 0 rgb(198, 195, 195),
+                     1px 9px 0 rgb(198, 195, 195),
+                     1px 10px 0 rgb(198, 195, 195),
+                     1px 11px 0 rgb(198, 195, 195),
+                     1px 12px 0 rgb(198, 195, 195),
+                     1px 13px 0 rgb(198, 195, 195),
+                     1px 14px 0 rgb(198, 195, 195),
+                     1px 15px 0 rgb(198, 195, 195),
+                     1px 15px 30px rgb(59, 59, 59),
+      }
+     
+      
+      
+
+
+
 
 .titulo{
     font-family:'Times New Roman', Times, serif;
@@ -41,7 +69,7 @@ header{
     background-image:url(pngtree-macaron-teacup-cat-dessert-cloud-image_16421.jpg);
     background-size: cover;
     background-position:center;
-    height:300px;
+    height:450px;
 
 }
 header h1{
@@ -88,10 +116,17 @@ header h1{
     scale: 1.05;
 }
 .contenedor .contenedor-items .item .titulo-item{
-    display: block;
-    font-weight: bold;
-    text-align: center;
-    text-transform: uppercase;
+align-items: center;
+text-align: center;
+justify-content: center;
+display: flex;
+font-family: "Rubik Glitch Pop", system-ui, cursive;
+font-style:italic;
+color:rgb(231, 32, 65);
+font-size:1rem;
+font-weight:900;
+      
+      
 }
 .contenedor .contenedor-items .item .precio-item{
     display: block;
